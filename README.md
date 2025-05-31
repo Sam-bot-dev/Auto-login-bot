@@ -119,6 +119,8 @@ Element Selectors: The script uses placeholder selectors like id/class/username,
 Website Terms: Always ensure that you're adhering to the website's terms of service when automating interactions.
 
 Educational Use: This script is intended for educational purposes. Be mindful of how you use it.
+geckodriver is only for firefox.
+you can remove it if you are using for google's Chrome or microsoft's edge. 
 
 🐛 Troubleshooting
 If you run into any issues, here are some common solutions:
